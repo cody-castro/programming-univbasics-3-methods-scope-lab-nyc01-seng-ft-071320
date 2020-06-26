@@ -15,8 +15,8 @@ end
 
 def all_phrases(mario, toadstool, link)
   puts "#{mario}"
-  puts "#{toadstool}"
-  puts "#{link}"
+  puts 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts "It's Dangerous To Go Alone! Take This."
 end
 
 puts all_phrases("#{mario}", "#{toadstool}", "#{link}")
