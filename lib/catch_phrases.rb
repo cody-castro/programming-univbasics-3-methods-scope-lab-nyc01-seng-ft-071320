@@ -17,4 +17,4 @@ def all_phrases(mario, toadstool, link)
   puts "#{mario} \n #{toadstool} \n #{link}"
 end
 
-all_phrases("mario, toadstool, link")
+all_phrases("mario", "toadstool", "link")
