@@ -19,4 +19,4 @@ def all_phrases(mario, toadstool, link)
   puts "#{link}"
 end
 
-puts all_phrases("mario", "toadstool", "link")
+puts all_phrases("#{mario}", "#{toadstool}", "#{link}")
